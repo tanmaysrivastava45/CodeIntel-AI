@@ -69,7 +69,7 @@ function App() {
         <div href = "/public"></div>
         
       <img
-        src="/public/image.png" 
+        src="/image.png" 
         alt="CodeIntel AI Logo"
         className="w-40 h-auto mx-auto mb-6"
       />
